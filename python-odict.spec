@@ -7,6 +7,7 @@ License:	Python
 Group:		Development/Languages
 URL:		http://slimit.org/
 Source0:	http://pypi.python.org/packages/source/o/%{module}/%{module}-%{version}.tar.gz
+# Source0-md5:	43d4b2d5775245c6f11df12a09c7bfdb
 BuildRequires:	python-devel
 BuildRequires:	python-setuptools
 BuildRequires:	rpm-pythonprov
