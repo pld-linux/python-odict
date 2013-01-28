@@ -1,13 +1,13 @@
 %define		module	odict
 Summary:	Ordered dictionary
 Name:		python-odict
-Version:	1.5.0
-Release:	2
+Version:	1.5.1
+Release:	1
 License:	Python
 Group:		Libraries/Python
 URL:		http://slimit.org/
 Source0:	http://pypi.python.org/packages/source/o/%{module}/%{module}-%{version}.tar.gz
-# Source0-md5:	43d4b2d5775245c6f11df12a09c7bfdb
+# Source0-md5:	77ded25c29035b68574383a08af2bdf1
 BuildRequires:	python-devel
 BuildRequires:	python-setuptools
 BuildRequires:	rpm-pythonprov
