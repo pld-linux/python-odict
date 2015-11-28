@@ -2,7 +2,7 @@
 Summary:	Ordered dictionary
 Name:		python-odict
 Version:	1.5.1
-Release:	1
+Release:	2
 License:	Python
 Group:		Libraries/Python
 URL:		http://slimit.org/
